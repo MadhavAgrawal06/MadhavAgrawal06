@@ -1,5 +1,15 @@
 # 💫 About Me:
-Frontend Developer transitioning into Full-Stack — crafting clean UIs with React, building robust backends, and exploring the cloud with AWS.<br><br>🛠 I’m currently working on<br><br>Building modern and responsive UIs using React & JavaScript<br>Creating small real-world projects to strengthen my frontend skills<br><br>🤝 I’m looking to collaborate on<br><br>React-based frontend projects<br>Creative UI/UX-focused web applications<br>Open-source frontend contributions<br><br>💡 I’m looking for help with<br><br>Writing cleaner, scalable React code<br>Exploring advanced UI patterns and best practices<br><br>🌱 I’m currently learning<br><br>Java (OOP, backend concepts)<br>AWS Basics (intro to cloud concepts)<br>MySQL fundamentals<br><br>💬 Ask me about<br><br>HTML, CSS, JavaScript<br>React, UI components, responsive design<br>Frontend project structure and clean UI practices<br><br>⚡ Fun fact<br><br>I love turning simple ideas into fun, interactive mini-projects.<br>And yes — volleyball is my stress buster! 🏐
+Frontend Developer transitioning into Full-Stack — crafting clean UIs with React, building robust backends, and exploring the cloud with AWS.<br><br>🛠 I’m currently working on Building responsive and modern UIs using React and JavaScript.
+
+🤝 I’m looking to collaborate on Frontend React projects and creative UI/UX applications.
+
+💡 I’m looking for help with Writing cleaner, scalable React components and UI patterns.
+
+🌱 I’m currently learning Java basics, AWS fundamentals, and MySQL essentials.
+
+💬 Ask me about HTML, CSS, JavaScript, React, and responsive UI development.
+
+⚡ Fun fact - I love creating mini-projects and playing volleyball. 🏐�
 
 
 ## 🌐 Socials:
@@ -11,9 +21,6 @@ Frontend Developer transitioning into Full-Stack — crafting clean UIs with Rea
 ![](https://github-readme-stats.vercel.app/api?username=MadhavAgrawal06&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MadhavAgrawal06&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgrawal06&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MadhavAgrawal06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
