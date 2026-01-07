@@ -9,7 +9,7 @@ APIs, and exploring cloud fundamentals with AWS.
 🗄️ Working with **MySQL** for relational data storage.  
 🤝 Open to collaborating on **Full Stack and React-based projects**.  
 🌱 Currently learning **AWS fundamentals and backend best practices**.  
-💬 Ask me about **HTML, CSS, JavaScript, React, REST APIs, and web development**.  
+💬 Ask me about **React, JavaScript, Java, Spring Boot, REST APIs, and MySQL**.
 ⚡ Fun fact: I love creating mini-projects and playing volleyball 🏐  
 
 ---
