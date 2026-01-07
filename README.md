@@ -4,24 +4,20 @@ applications using React, Java, Spring Boot, JDBC, and MySQL. I enjoy
 crafting clean, responsive user interfaces, developing robust backend
 APIs, and exploring cloud fundamentals with AWS.
 
-🛠 Currently building responsive and modern web applications using **React and JavaScript**.  
-🔧 Developing backend services and REST APIs using **Java & Spring Boot**.  
-🗄️ Working with **MySQL** for relational data storage.  
-🤝 Open to collaborating on **Full Stack and React-based projects**.  
-🌱 Currently learning **AWS fundamentals and backend best practices**.  
-💬 Ask me about **React, JavaScript, Java, Spring Boot, REST APIs, and MySQL**.
+🛠 Currently building responsive and modern web applications using **React and JavaScript**  
+🔧 Developing backend services and REST APIs using **Java & Spring Boot**  
+🗄️ Working with **MySQL** for relational data storage  
+🤝 Open to collaborating on **Full Stack and React-based projects**  
+🌱 Currently learning **AWS fundamentals and backend best practices**  
+💬 Ask me about **React, JavaScript, Java, Spring Boot, REST APIs, and MySQL**  
 ⚡ Fun fact: I love creating mini-projects and playing volleyball 🏐  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials & Portfolio:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aalsi.aatma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-agrawal-1704a0194/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawalmad00@gmail.com)
-
----
-
-## 🌐 Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://madhavagrawal-dev.netlify.app)
 
 ---
@@ -44,11 +40,11 @@ APIs, and exploring cloud fundamentals with AWS.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MadhavAgrawal06&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MadhavAgrawal06&theme=transparent&include_all_commits=true&count_private=true)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MadhavAgrawal06&theme=transparent&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MadhavAgrawal06&theme=transparent)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgrawal06&theme=transparent&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgrawal06&theme=transparent&layout=compact)
 
 ---
 
@@ -57,4 +53,3 @@ APIs, and exploring cloud fundamentals with AWS.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MadhavAgrawal06&icon=0&color=0)](https://visitcount.itsvg.in)
-
