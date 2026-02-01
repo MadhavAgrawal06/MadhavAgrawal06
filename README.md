@@ -19,6 +19,7 @@ APIs, and exploring cloud fundamentals with AWS.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-agrawal-1704a0194/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawalmad00@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://madhavagrawal-dev.netlify.app)
+![Profile views](https://komarev.com/ghpvc/?username=MadhavAgrawal06&label=Profile%20views&color=0e75b6&style=flat).
 
 ---
 
@@ -51,5 +52,3 @@ APIs, and exploring cloud fundamentals with AWS.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
----
-![Profile views](https://komarev.com/ghpvc/?username=MadhavAgrawal06&label=Profile%20views&color=0e75b6&style=flat).
